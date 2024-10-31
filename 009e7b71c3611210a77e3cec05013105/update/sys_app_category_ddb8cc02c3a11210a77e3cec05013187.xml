@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_category">
+    <sys_app_category action="INSERT_OR_UPDATE">
+        <default_order>100</default_order>
+        <name>Event Registration</name>
+        <style/>
+        <sys_class_name>sys_app_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 19:59:06</sys_created_on>
+        <sys_id>ddb8cc02c3a11210a77e3cec05013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Registration</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">009e7b71c3611210a77e3cec05013105</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">009e7b71c3611210a77e3cec05013105</sys_scope>
+        <sys_update_name>sys_app_category_ddb8cc02c3a11210a77e3cec05013187</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 19:59:06</sys_updated_on>
+    </sys_app_category>
+</record_update>
