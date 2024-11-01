@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="eb40c046c3611210a77e3cec05013147" extends="task" label="Registration" max_length="40" name="x_snc_event_regist_registration" type="collection">
-        <element attributes="encode_utf8=false" label="Event" max_length="32" name="event" reference="x_snc_event_regist_event" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Email" max_length="100" name="email" type="string"/>
+        <element attributes="encode_utf8=false" label="Event" mandatory="true" max_length="32" name="event" reference="x_snc_event_regist_event" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="100" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="100" name="full_name" type="string"/>
     </element>
 </database>
